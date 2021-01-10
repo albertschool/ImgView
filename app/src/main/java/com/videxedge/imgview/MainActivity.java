@@ -22,6 +22,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showimg(View view) {
-        iV.setImageResource(twoimg);
+        iV.setImageResource(R.drawable.two);
     }
 }
